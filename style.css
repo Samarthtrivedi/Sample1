@@ -1,14 +1,14 @@
 *{
     padding: 0;
-    background: mediumseagreen;
+    margin: 0;
 }
 
 body{
     background: hsl(272, 99%, 54%);
-    color: white;
     display: flex;
     justify-content: center;
     height: 70vh;
+    
 }
 .container{
     background: white;
@@ -43,7 +43,7 @@ body{
     border: 2px solid bisque;
 }
 .score{
-    font-size: x-large;
+    font-size: xx-large;
 
 }
 .score > span{
@@ -54,7 +54,7 @@ body{
     width: 200px;
     justify-content: space-evenly;
 }
-#strike-button{
+#strike_button{
     border: none;
     border-radius: 25px;
     font-size: large;
