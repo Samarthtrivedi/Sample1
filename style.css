@@ -54,7 +54,7 @@ body{
     width: 200px;
     justify-content: space-evenly;
 }
-#strike_button{
+#strike-button{
     border: none;
     border-radius: 25px;
     font-size: large;
