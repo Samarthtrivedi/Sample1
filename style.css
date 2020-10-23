@@ -52,24 +52,16 @@ body{
 .round_runs{
     font-size: xx-large;
     width: 200px;
-    justify-content: space-evenly;
+    justify-content:space-evenly;
 }
-<<<<<<< HEAD
 #strike-button{
-=======
-#strike_button{
->>>>>>> 644d07c33c0dfa297cec56eaaeca076b11fe69dd
     border: none;
     border-radius: 25px;
     font-size: large;
-    background: linear-gradient(135deg, #c02425, #f0cb35);
     width: 300px;
     color: white;
     padding: 10px;
     margin-top: 50px;
     margin-bottom: -50px;
-<<<<<<< HEAD
+    background: linear-gradient(135deg,#c02425,#f0cb35);
 }
-=======
-}
->>>>>>> 644d07c33c0dfa297cec56eaaeca076b11fe69dd
